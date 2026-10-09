@@ -272,8 +272,8 @@ Ja programma visus testus iztur, izvēlies agrāku kļūdainu `commit` vai paska
 
 ## Programmēšanas ĢEDD iesniegšanas pārbaude
 
-- [ ] repozitorijs atveras Gitea;
-- [ ] repozitorijā ir README un sāktie `.py` faili;
+- [x] repozitorijs atveras Gitea;
+- [x] repozitorijā ir README un sāktie `.py` faili;
 - [ ] programmās redzams `if`, `for` un `while` lietojums;
 - [ ] programmas ir palaistas un pārbaudītas;
 - [ ] versiju vēsturē ir vismaz trīs jēgpilni `commit`;
